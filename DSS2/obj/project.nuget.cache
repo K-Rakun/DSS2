@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqblPxlfSO60WK4v/WyErx7G0JmFoQhmrPQ/hK/KHgayXkz360oVEHvJUtSXjM513VMw/qKe8ByltzwCckoe7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casper\\source\\repos\\DSS2\\DSS2\\DSS2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
